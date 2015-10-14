@@ -1,0 +1,5 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\SumOfFactOfEachDigiti\bin\Debug\SumOfFactOfEachDigiti.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\SumOfFactOfEachDigiti\bin\Debug\SumOfFactOfEachDigiti.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\SumOfFactOfEachDigiti\bin\Debug\SumOfFactOfEachDigiti.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\SumOfFactOfEachDigiti\obj\Debug\SumOfFactOfEachDigiti.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\SumOfFactOfEachDigiti\obj\Debug\SumOfFactOfEachDigiti.pdb

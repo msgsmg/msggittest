@@ -1,0 +1,5 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\DelegateEventHandlerExample\bin\Debug\DelegateEventHandlerExample.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\DelegateEventHandlerExample\obj\Debug\DelegateEventHandlerExample.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\DelegateEventHandlerExample\obj\Debug\DelegateEventHandlerExample.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\DelegateEventHandlerExample\bin\Debug\DelegateEventHandlerExample.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\DelegateEventHandlerExample\bin\Debug\DelegateEventHandlerExample.pdb

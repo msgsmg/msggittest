@@ -1,0 +1,9 @@
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\CheckIfTwoStringsAreIsomorphic\bin\Debug\CheckIfTwoStringsAreIsomorphic.exe.config
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\CheckIfTwoStringsAreIsomorphic\bin\Debug\CheckIfTwoStringsAreIsomorphic.exe
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\CheckIfTwoStringsAreIsomorphic\bin\Debug\CheckIfTwoStringsAreIsomorphic.pdb
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\CheckIfTwoStringsAreIsomorphic\obj\Debug\CheckIfTwoStringsAreIsomorphic.csprojResolveAssemblyReference.cache
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\CheckIfTwoStringsAreIsomorphic\obj\Debug\CheckIfTwoStringsAreIsomorphic.exe
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\CheckIfTwoStringsAreIsomorphic\obj\Debug\CheckIfTwoStringsAreIsomorphic.pdb
+C:\Users\migandhi\Documents\Preparation\CheckIfTwoStringsAreIsomorphic\bin\Debug\CheckIfTwoStringsAreIsomorphic.exe.config
+C:\Users\migandhi\Documents\Preparation\CheckIfTwoStringsAreIsomorphic\obj\Debug\CheckIfTwoStringsAreIsomorphic.exe
+C:\Users\migandhi\Documents\Preparation\CheckIfTwoStringsAreIsomorphic\obj\Debug\CheckIfTwoStringsAreIsomorphic.pdb

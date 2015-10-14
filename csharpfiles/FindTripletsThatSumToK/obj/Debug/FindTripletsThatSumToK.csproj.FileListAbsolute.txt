@@ -1,0 +1,6 @@
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\FindTripletsThatSumToK\bin\Debug\FindTripletsThatSumToK.exe.config
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\FindTripletsThatSumToK\bin\Debug\FindTripletsThatSumToK.exe
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\FindTripletsThatSumToK\bin\Debug\FindTripletsThatSumToK.pdb
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\FindTripletsThatSumToK\obj\Debug\FindTripletsThatSumToK.csprojResolveAssemblyReference.cache
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\FindTripletsThatSumToK\obj\Debug\FindTripletsThatSumToK.exe
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\FindTripletsThatSumToK\obj\Debug\FindTripletsThatSumToK.pdb

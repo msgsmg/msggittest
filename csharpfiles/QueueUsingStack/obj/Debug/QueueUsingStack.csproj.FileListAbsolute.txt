@@ -1,0 +1,6 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\QueueUsingStack\bin\Debug\QueueUsingStack.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\QueueUsingStack\bin\Debug\QueueUsingStack.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\QueueUsingStack\bin\Debug\QueueUsingStack.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\QueueUsingStack\obj\Debug\QueueUsingStack.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\QueueUsingStack\obj\Debug\QueueUsingStack.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\QueueUsingStack\obj\Debug\QueueUsingStack.csprojResolveAssemblyReference.cache

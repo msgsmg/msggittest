@@ -1,0 +1,6 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindFirstnonRepeatedCharacterInString\bin\Debug\FindFirstnonRepeatedCharacterInString.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindFirstnonRepeatedCharacterInString\obj\Debug\FindFirstnonRepeatedCharacterInString.csprojResolveAssemblyReference.cache
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindFirstnonRepeatedCharacterInString\bin\Debug\FindFirstnonRepeatedCharacterInString.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindFirstnonRepeatedCharacterInString\bin\Debug\FindFirstnonRepeatedCharacterInString.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindFirstnonRepeatedCharacterInString\obj\Debug\FindFirstnonRepeatedCharacterInString.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindFirstnonRepeatedCharacterInString\obj\Debug\FindFirstnonRepeatedCharacterInString.pdb

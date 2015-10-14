@@ -1,0 +1,6 @@
+C:\Users\migandhi\Documents\Preparation\PrintPossibleWordsByPlacingSpace\bin\Debug\PrintPossibleWordsByPlacingSpace.exe.config
+C:\Users\migandhi\Documents\Preparation\PrintPossibleWordsByPlacingSpace\bin\Debug\PrintPossibleWordsByPlacingSpace.exe
+C:\Users\migandhi\Documents\Preparation\PrintPossibleWordsByPlacingSpace\bin\Debug\PrintPossibleWordsByPlacingSpace.pdb
+C:\Users\migandhi\Documents\Preparation\PrintPossibleWordsByPlacingSpace\obj\Debug\PrintPossibleWordsByPlacingSpace.csprojResolveAssemblyReference.cache
+C:\Users\migandhi\Documents\Preparation\PrintPossibleWordsByPlacingSpace\obj\Debug\PrintPossibleWordsByPlacingSpace.exe
+C:\Users\migandhi\Documents\Preparation\PrintPossibleWordsByPlacingSpace\obj\Debug\PrintPossibleWordsByPlacingSpace.pdb

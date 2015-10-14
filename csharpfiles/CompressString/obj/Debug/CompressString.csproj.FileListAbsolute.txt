@@ -1,0 +1,6 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\CompressString\bin\Debug\CompressString.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\CompressString\bin\Debug\CompressString.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\CompressString\bin\Debug\CompressString.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\CompressString\obj\Debug\CompressString.csprojResolveAssemblyReference.cache
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\CompressString\obj\Debug\CompressString.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\CompressString\obj\Debug\CompressString.pdb

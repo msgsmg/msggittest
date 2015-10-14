@@ -1,0 +1,6 @@
+C:\Users\migandhi\Documents\Preparation\PringPossibleWordsOfPhoneDigits\bin\Debug\PringPossibleWordsOfPhoneDigits.exe.config
+C:\Users\migandhi\Documents\Preparation\PringPossibleWordsOfPhoneDigits\bin\Debug\PringPossibleWordsOfPhoneDigits.exe
+C:\Users\migandhi\Documents\Preparation\PringPossibleWordsOfPhoneDigits\bin\Debug\PringPossibleWordsOfPhoneDigits.pdb
+C:\Users\migandhi\Documents\Preparation\PringPossibleWordsOfPhoneDigits\obj\Debug\PringPossibleWordsOfPhoneDigits.csprojResolveAssemblyReference.cache
+C:\Users\migandhi\Documents\Preparation\PringPossibleWordsOfPhoneDigits\obj\Debug\PringPossibleWordsOfPhoneDigits.exe
+C:\Users\migandhi\Documents\Preparation\PringPossibleWordsOfPhoneDigits\obj\Debug\PringPossibleWordsOfPhoneDigits.pdb

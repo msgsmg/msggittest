@@ -1,0 +1,6 @@
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\RotateMatrixBy90Degrees\bin\Debug\RotateMatrixBy90Degrees.exe.config
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\RotateMatrixBy90Degrees\bin\Debug\RotateMatrixBy90Degrees.exe
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\RotateMatrixBy90Degrees\bin\Debug\RotateMatrixBy90Degrees.pdb
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\RotateMatrixBy90Degrees\obj\Debug\RotateMatrixBy90Degrees.csprojResolveAssemblyReference.cache
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\RotateMatrixBy90Degrees\obj\Debug\RotateMatrixBy90Degrees.exe
+C:\Users\migandhi\Documents\Visual Studio 2012\Projects\Preparation\RotateMatrixBy90Degrees\obj\Debug\RotateMatrixBy90Degrees.pdb

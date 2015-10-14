@@ -1,0 +1,5 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReplaceSpacewithpern20InString\bin\Debug\ReplaceSpacewithpern20InString.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReplaceSpacewithpern20InString\bin\Debug\ReplaceSpacewithpern20InString.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReplaceSpacewithpern20InString\bin\Debug\ReplaceSpacewithpern20InString.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReplaceSpacewithpern20InString\obj\Debug\ReplaceSpacewithpern20InString.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReplaceSpacewithpern20InString\obj\Debug\ReplaceSpacewithpern20InString.pdb

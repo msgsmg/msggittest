@@ -1,0 +1,5 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindifBinaryTreeisBST\bin\Debug\FindifBinaryTreeisBST.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindifBinaryTreeisBST\bin\Debug\FindifBinaryTreeisBST.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindifBinaryTreeisBST\bin\Debug\FindifBinaryTreeisBST.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindifBinaryTreeisBST\obj\Debug\FindifBinaryTreeisBST.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindifBinaryTreeisBST\obj\Debug\FindifBinaryTreeisBST.pdb

@@ -1,0 +1,11 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\StringPermutations\bin\Debug\StringPermutations.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\StringPermutations\bin\Debug\StringPermutations.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\StringPermutations\bin\Debug\StringPermutations.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\StringPermutations\obj\Debug\StringPermutations.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\StringPermutations\obj\Debug\StringPermutations.pdb
+C:\Users\migandhi\Documents\Preparation\StringPermutations\bin\Debug\StringPermutations.exe.config
+C:\Users\migandhi\Documents\Preparation\StringPermutations\obj\Debug\StringPermutations.exe
+C:\Users\migandhi\Documents\Preparation\StringPermutations\obj\Debug\StringPermutations.pdb
+C:\Users\migandhi\Documents\Preparation\StringPermutations\bin\Debug\StringPermutations.exe
+C:\Users\migandhi\Documents\Preparation\StringPermutations\bin\Debug\StringPermutations.pdb
+C:\Users\migandhi\Documents\Preparation\StringPermutations\obj\Debug\StringPermutations.csprojResolveAssemblyReference.cache

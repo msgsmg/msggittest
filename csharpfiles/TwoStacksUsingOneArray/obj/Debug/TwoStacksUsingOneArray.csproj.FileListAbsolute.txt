@@ -1,0 +1,6 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\TwoStacksUsingOneArray\bin\Debug\TwoStacksUsingOneArray.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\TwoStacksUsingOneArray\bin\Debug\TwoStacksUsingOneArray.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\TwoStacksUsingOneArray\bin\Debug\TwoStacksUsingOneArray.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\TwoStacksUsingOneArray\obj\Debug\TwoStacksUsingOneArray.csprojResolveAssemblyReference.cache
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\TwoStacksUsingOneArray\obj\Debug\TwoStacksUsingOneArray.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\TwoStacksUsingOneArray\obj\Debug\TwoStacksUsingOneArray.pdb

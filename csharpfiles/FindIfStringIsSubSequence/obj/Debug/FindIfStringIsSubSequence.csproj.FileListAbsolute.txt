@@ -1,0 +1,6 @@
+C:\Users\migandhi\Documents\Preparation\FindIfStringIsSubSequence\bin\Debug\FindIfStringIsSubSequence.exe.config
+C:\Users\migandhi\Documents\Preparation\FindIfStringIsSubSequence\bin\Debug\FindIfStringIsSubSequence.exe
+C:\Users\migandhi\Documents\Preparation\FindIfStringIsSubSequence\bin\Debug\FindIfStringIsSubSequence.pdb
+C:\Users\migandhi\Documents\Preparation\FindIfStringIsSubSequence\obj\Debug\FindIfStringIsSubSequence.csprojResolveAssemblyReference.cache
+C:\Users\migandhi\Documents\Preparation\FindIfStringIsSubSequence\obj\Debug\FindIfStringIsSubSequence.exe
+C:\Users\migandhi\Documents\Preparation\FindIfStringIsSubSequence\obj\Debug\FindIfStringIsSubSequence.pdb

@@ -1,0 +1,6 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseNumber\bin\Debug\ReverseNumber.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseNumber\bin\Debug\ReverseNumber.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseNumber\obj\Debug\ReverseNumber.csprojResolveAssemblyReference.cache
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseNumber\obj\Debug\ReverseNumber.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseNumber\obj\Debug\ReverseNumber.pdb

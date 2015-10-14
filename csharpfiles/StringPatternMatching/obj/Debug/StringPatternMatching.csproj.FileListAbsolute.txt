@@ -1,0 +1,6 @@
+C:\Users\migandhi\Documents\Preparation\StringPatternMatching\bin\Debug\StringPatternMatching.exe.config
+C:\Users\migandhi\Documents\Preparation\StringPatternMatching\bin\Debug\StringPatternMatching.exe
+C:\Users\migandhi\Documents\Preparation\StringPatternMatching\bin\Debug\StringPatternMatching.pdb
+C:\Users\migandhi\Documents\Preparation\StringPatternMatching\obj\Debug\StringPatternMatching.csprojResolveAssemblyReference.cache
+C:\Users\migandhi\Documents\Preparation\StringPatternMatching\obj\Debug\StringPatternMatching.exe
+C:\Users\migandhi\Documents\Preparation\StringPatternMatching\obj\Debug\StringPatternMatching.pdb

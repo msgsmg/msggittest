@@ -1,0 +1,6 @@
+C:\Users\migandhi\Documents\Preparation\CountNumberOfWords\bin\Debug\CountNumberOfWords.exe.config
+C:\Users\migandhi\Documents\Preparation\CountNumberOfWords\bin\Debug\CountNumberOfWords.exe
+C:\Users\migandhi\Documents\Preparation\CountNumberOfWords\bin\Debug\CountNumberOfWords.pdb
+C:\Users\migandhi\Documents\Preparation\CountNumberOfWords\obj\Debug\CountNumberOfWords.csprojResolveAssemblyReference.cache
+C:\Users\migandhi\Documents\Preparation\CountNumberOfWords\obj\Debug\CountNumberOfWords.exe
+C:\Users\migandhi\Documents\Preparation\CountNumberOfWords\obj\Debug\CountNumberOfWords.pdb

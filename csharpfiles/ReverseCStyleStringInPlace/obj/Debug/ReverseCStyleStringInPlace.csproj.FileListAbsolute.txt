@@ -1,0 +1,5 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseCStyleStringInPlace\bin\Debug\ReverseCStyleStringInPlace.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseCStyleStringInPlace\bin\Debug\ReverseCStyleStringInPlace.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseCStyleStringInPlace\bin\Debug\ReverseCStyleStringInPlace.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseCStyleStringInPlace\obj\Debug\ReverseCStyleStringInPlace.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\ReverseCStyleStringInPlace\obj\Debug\ReverseCStyleStringInPlace.pdb

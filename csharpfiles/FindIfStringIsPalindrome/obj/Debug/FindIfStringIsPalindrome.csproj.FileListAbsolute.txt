@@ -1,0 +1,5 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfStringIsPalindrome\bin\Debug\FindIfStringIsPalindrome.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfStringIsPalindrome\bin\Debug\FindIfStringIsPalindrome.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfStringIsPalindrome\bin\Debug\FindIfStringIsPalindrome.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfStringIsPalindrome\obj\Debug\FindIfStringIsPalindrome.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfStringIsPalindrome\obj\Debug\FindIfStringIsPalindrome.pdb

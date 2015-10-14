@@ -1,0 +1,6 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\RotateLinkListFromKthElement\bin\Debug\RotateLinkListFromKthElement.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\RotateLinkListFromKthElement\obj\Debug\RotateLinkListFromKthElement.csprojResolveAssemblyReference.cache
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\RotateLinkListFromKthElement\bin\Debug\RotateLinkListFromKthElement.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\RotateLinkListFromKthElement\bin\Debug\RotateLinkListFromKthElement.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\RotateLinkListFromKthElement\obj\Debug\RotateLinkListFromKthElement.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\RotateLinkListFromKthElement\obj\Debug\RotateLinkListFromKthElement.pdb

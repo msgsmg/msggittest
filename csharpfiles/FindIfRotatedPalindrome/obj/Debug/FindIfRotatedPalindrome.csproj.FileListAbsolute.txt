@@ -1,0 +1,5 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfRotatedPalindrome\bin\Debug\FindIfRotatedPalindrome.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfRotatedPalindrome\bin\Debug\FindIfRotatedPalindrome.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfRotatedPalindrome\bin\Debug\FindIfRotatedPalindrome.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfRotatedPalindrome\obj\Debug\FindIfRotatedPalindrome.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindIfRotatedPalindrome\obj\Debug\FindIfRotatedPalindrome.pdb

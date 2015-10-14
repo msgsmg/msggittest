@@ -1,0 +1,6 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\OccuranceOfNumInSortedArray\bin\Debug\OccuranceOfNumInSortedArray.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\OccuranceOfNumInSortedArray\bin\Debug\OccuranceOfNumInSortedArray.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\OccuranceOfNumInSortedArray\bin\Debug\OccuranceOfNumInSortedArray.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\OccuranceOfNumInSortedArray\obj\Debug\OccuranceOfNumInSortedArray.csprojResolveAssemblyReference.cache
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\OccuranceOfNumInSortedArray\obj\Debug\OccuranceOfNumInSortedArray.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\OccuranceOfNumInSortedArray\obj\Debug\OccuranceOfNumInSortedArray.pdb

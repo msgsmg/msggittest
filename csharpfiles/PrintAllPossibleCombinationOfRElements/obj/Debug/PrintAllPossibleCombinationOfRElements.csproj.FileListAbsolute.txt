@@ -1,0 +1,6 @@
+C:\Users\migandhi\Documents\Preparation\PrintAllPossibleCombinationOfRElements\bin\Debug\PrintAllPossibleCombinationOfRElements.exe.config
+C:\Users\migandhi\Documents\Preparation\PrintAllPossibleCombinationOfRElements\bin\Debug\PrintAllPossibleCombinationOfRElements.exe
+C:\Users\migandhi\Documents\Preparation\PrintAllPossibleCombinationOfRElements\bin\Debug\PrintAllPossibleCombinationOfRElements.pdb
+C:\Users\migandhi\Documents\Preparation\PrintAllPossibleCombinationOfRElements\obj\Debug\PrintAllPossibleCombinationOfRElements.csprojResolveAssemblyReference.cache
+C:\Users\migandhi\Documents\Preparation\PrintAllPossibleCombinationOfRElements\obj\Debug\PrintAllPossibleCombinationOfRElements.exe
+C:\Users\migandhi\Documents\Preparation\PrintAllPossibleCombinationOfRElements\obj\Debug\PrintAllPossibleCombinationOfRElements.pdb

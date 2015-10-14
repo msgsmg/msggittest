@@ -1,0 +1,6 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindNumberOfRotationsInArray\bin\Debug\FindNumberOfRotationsInArray.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindNumberOfRotationsInArray\bin\Debug\FindNumberOfRotationsInArray.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindNumberOfRotationsInArray\bin\Debug\FindNumberOfRotationsInArray.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindNumberOfRotationsInArray\obj\Debug\FindNumberOfRotationsInArray.csprojResolveAssemblyReference.cache
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindNumberOfRotationsInArray\obj\Debug\FindNumberOfRotationsInArray.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindNumberOfRotationsInArray\obj\Debug\FindNumberOfRotationsInArray.pdb

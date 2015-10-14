@@ -1,0 +1,6 @@
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindOccuranceOfNumberInSortedArray\bin\Debug\FindOccuranceOfNumberInSortedArray.exe.config
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindOccuranceOfNumberInSortedArray\bin\Debug\FindOccuranceOfNumberInSortedArray.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindOccuranceOfNumberInSortedArray\bin\Debug\FindOccuranceOfNumberInSortedArray.pdb
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindOccuranceOfNumberInSortedArray\obj\Debug\FindOccuranceOfNumberInSortedArray.csprojResolveAssemblyReference.cache
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindOccuranceOfNumberInSortedArray\obj\Debug\FindOccuranceOfNumberInSortedArray.exe
+c:\users\migandhi\documents\visual studio 2012\Projects\Preparation\FindOccuranceOfNumberInSortedArray\obj\Debug\FindOccuranceOfNumberInSortedArray.pdb
